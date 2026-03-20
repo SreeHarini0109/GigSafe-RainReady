@@ -4,7 +4,7 @@
 
 Before You Read
 
-A Short introduction 
+A Short introduction on
 what are solving and for whom are we solving it ? short answer to this is income loss the food delivery segment faces during heavy rain, cyclones, extreme heat, and citywide strikes . why just food delivery segment and not the e-commerce or the q-commerce ? lets say i order cold coffee and fries. And then rain hits , my order is delayed . I dont want watery coffee and soggy fries delivered to me so, i cancel my order . The rider loses that income permanently. It greatly affects the daily income of gig workers in this segment whereas in the e-commerce segment ,the income opportunity is just deferred, not destroyed. The order i made in amazon remains assigned and is fulfilled the following day. And Q-commerce like blinkit and zepto cafes were introduced in idea with the catchy concept of same hour delivery so , Behaviorally identical to food delivery and are affected likely the same . 
 
 time-criticality is one of main reasons that led us taking focus in food delivery segment . They are greatly affected and require a safety net and So , We provide them a AI-Powered Parametric Income Protection
