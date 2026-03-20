@@ -2,6 +2,13 @@
 ### AI-Powered Parametric Income Protection for Food Delivery Partners
 *Built for Guidewire DEVTrails 2026 — University Hackathon*
 
+Before You Read
+
+A Short introduction 
+what are solving and for whom are we solving it ? short answer to this is income loss the food delivery segment faces during heavy rain, cyclones, extreme heat, and citywide strikes . why just food delivery segment and not the e-commerce or the q-commerce ? lets say i order cold coffee and fries. And then rain hits , my order is delayed . I dont want watery coffee and soggy fries delivered to me so, i cancel my order . The rider loses that income permanently. It greatly affects the daily income of gig workers in this segment whereas in the e-commerce segment ,the income opportunity is just deferred, not destroyed. The order i made in amazon remains assigned and is fulfilled the following day. And Q-commerce like blinkit and zepto cafes were introduced in idea with the catchy concept of same hour delivery so , Behaviorally identical to food delivery and are affected likely the same . 
+
+time-criticality is one of main reasons that led us taking focus in food delivery segment . They are greatly affected and require a safety net and So , We provide them a AI-Powered Parametric Income Protection
+
 ---
 
 ## Table of Contents
@@ -323,9 +330,8 @@ Analytics dashboard, multilingual notifications, WhatsApp Business certificate, 
 
 **Week 6 (Soar) — Demo and pitch**
 Live demo environment (rain trigger → fraud check → payout in 90 seconds), pitch deck, stress testing, DemoJam preparation.
-*Target: 5-star Soar + Unicorn.*
 
-> **Golden rule:** Submit broken code on time. Fix it after. A 1-day Soar late penalty is DC 40,000 — more than a 5-star submission earns.
+
 
 ---
 
@@ -353,23 +359,23 @@ A single signal can't do it. The defense is making it impossible to fake everyth
 
 When Rajan is genuinely stranded in a Velachery flood:
 
-- GPS says Velachery ✓
-- NavIC satellite system also says Velachery ✓
-- Cell tower triangulation puts him in the Velachery cluster ✓
-- Wi-Fi beacon log shows no home router nearby ✓
-- Accelerometer shows slight movement — fidgeting, not stone still ✓
-- GPS path has natural jitter — ±4–6 metres per fix ✓
-- He went inactive at 11:47am, about 20 minutes after rain started ✓
+- GPS says Velachery 
+- NavIC satellite system also says Velachery 
+- Cell tower triangulation puts him in the Velachery cluster 
+- Wi-Fi beacon log shows no home router nearby 
+- Accelerometer shows slight movement — fidgeting, not stone still 
+- GPS path has natural jitter — ±4–6 metres per fix 
+- He went inactive at 11:47am, about 20 minutes after rain started 
 
 When a fraudster runs a GPS mock app from his living room:
 
-- GPS says Velachery ✓ (spoofed)
-- NavIC says his actual home location ✗ — mismatch
-- Cell towers say his home neighbourhood ✗ — mismatch
-- His home Wi-Fi SSID appears in the beacon log ✗ — contradiction
-- Accelerometer shows zero movement for 45 minutes ✗ — stationary
-- GPS path has zero jitter — perfectly smooth, impossible for a real vehicle ✗
-- He went inactive at exactly 11:43:09am, same second as 486 others ✗ — impossible naturally
+- GPS says Velachery  (spoofed)
+- NavIC says his actual home location — mismatch
+- Cell towers say his home neighbourhood — mismatch
+- His home Wi-Fi SSID appears in the beacon log — contradiction
+- Accelerometer shows zero movement for 45 minutes — stationary
+- GPS path has zero jitter — perfectly smooth, impossible for a real vehicle 
+- He went inactive at exactly 11:43:09am, same second as 486 others  — impossible naturally
 
 The genuine rider passes all seven checks. The spoofer fails four or five. All seven together make faking everything simultaneously nearly impossible.
 
@@ -422,7 +428,7 @@ This is not a weakness. It is the ethical firewall that prevents fraud detection
 
 ---
 
-## Summary — The Seven Principles of Our Defense
+The Seven Principles of Our Defense
 
 1. **GPS is not ground truth.** Cross-validate with NavIC, cell towers, and Wi-Fi beacons. Any single signal is spoofable. All four simultaneously are not.
 
@@ -440,4 +446,3 @@ This is not a weakness. It is the ethical firewall that prevents fraud detection
 
 ---
 
-*Built for India's 5 million food delivery partners who work through every storm without a safety net.*
