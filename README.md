@@ -24,7 +24,7 @@ Three main features 1.Risk profiling 2. Fraud detection 3.Parametric Automation 
 7. [AI/ML Integration Plan](#7-aiml-integration)
 8. [Tech Stack and Development Plan](#8-tech-stack)
 9. [Adversarial Defense and Anti-Spoofing Strategy](#9-adversarial-defense)
-
+10. [Novelty](#10-aNovelty)
 ---
 
 ## 1. Persona Segment
@@ -447,4 +447,17 @@ The Seven Principles of Our Defense
 7. **The human override is not optional.** ML is fast but fallible. Ambiguity defaults to paying the rider. The 4-hour human review SLA is a product commitment.
 
 ---
+
+# 10 .Novelty
+
+**Rain radar widget** — shows hourly rain probability and a 7-day forecast for the rider's city, pulled live from OpenWeatherMap.
+
+**Streak rewards** — displays consecutive weeks insured with no claim, with a visible reward milestone the rider is working toward.
+
+**Income proof certificate** — generates a dated PDF showing total earnings, weeks covered, and payout history — formatted for bank or loan submissions.
+
+**Squad cover** — shows a shared group policy card, the 15% discount applied, and each member's coverage status in one view.
+
+**Community disruption map** — plots a live city map where riders have marked work stoppages, separate from what IMD rainfall data shows.
+
 
